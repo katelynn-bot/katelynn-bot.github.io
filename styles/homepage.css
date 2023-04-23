@@ -1,0 +1,48 @@
+/* Colors:
+    - Peach cream: #EFE7DA
+    - Brandy Rose: #B29079
+    - Chalk beige: #E1DACA
+    - Neutral: #C1B6A4
+    - White beige: #F6F5EC */
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    background-color: #F6F5EC;
+}
+img .d-inline-block {
+    border-radius: 50%;
+}
+.navbar-light {
+    background-color: #EFE7DA;
+}
+.navbar-brand {
+    /* color: #B29079; */
+    font-weight: bold;
+}
+.nav-link {
+    /* color: #B29079; */
+    font-weight: bold;
+    font-size: larger;
+}
+.jumbotron {
+    background-color: #C1B6A4;
+}
+#jumbo-header {
+    font-size: 50px;
+}
+.carousel {
+    height: 80%;
+    width: 90%;
+}
+.carousel-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    height: 60vh;
+    overflow:hidden
+}
+.dark {
+    color: black;
+}
