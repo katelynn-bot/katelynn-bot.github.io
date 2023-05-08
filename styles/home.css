@@ -1,0 +1,28 @@
+/* Gainsboro #DCDCDC
+Light gray #D3D3D3
+Wisper #E5E5E5
+Silver #C0C0C0
+Nobel #9A9A9A
+Very Light Gray #CDCDCD
+Dark Gray #A9A9A9
+Gray #8O8O8O
+Light slate gray #778899
+Dim Gray #696969
+Grey Chateau #92A0AD
+Mid gray #5F6D7A
+Slate gray #708090
+Fiord #4C5762
+Dark Slate gray # 2F4F4F
+Black #000000 */
+
+body {
+    margin: 10px;
+    overflow-x: hidden;
+    background-color: #E5E5E5
+}
+.navbar-dark {
+    background-color: #92A0AD;
+    margin-bottom: 10px;
+}
+
+
